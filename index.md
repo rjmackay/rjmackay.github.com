@@ -4,11 +4,7 @@ title: Robbie Mackay
 tagline: Software Developer and Eco Geek, Works for <a href="http://www.ushahidi.com">Ushahidi</a>.
 ---
 
-Some into info here
 
-## Something
-
-Something!
 
 ## Posts
 
