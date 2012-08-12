@@ -15,15 +15,16 @@ published: true
 meta:
   _edit_last: '1'
 ---
-<blockquote><em>We are afraid of truth, afraid of fortune, afraid of death, and afraid of each other. Our age yields no great and perfect persons. – Ralph Waldo Emerson</em>
 
+> <em>We are afraid of truth, afraid of fortune, afraid of death, and afraid of each other. Our age yields no great and perfect persons. – Ralph Waldo Emerson</em>
+> 
 You just discovered you have fifteen minutes to live.
-
-1. Set a timer for fifteen minutes.
-2. Write the story that has to be written.
-
-<a href="http://ralphwaldoemerson.me/prompts">http://ralphwaldoemerson.me/prompts</a></blockquote>
-<em>Kill every distraction. Everything in the way. What is there to communicate?</em>
+> 
+> 1. Set a timer for fifteen minutes.
+> 2. Write the story that has to be written.
+> 
+> <a href="http://ralphwaldoemerson.me/prompts">http://ralphwaldoemerson.me/prompts</a></blockquote>
+> <em>Kill every distraction. Everything in the way. What is there to communicate?</em>
 
 I love you all. What else can be said?
 
