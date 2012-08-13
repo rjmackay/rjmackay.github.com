@@ -125,3 +125,15 @@ JB :
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
   
+prose :
+  metadata:
+    "": |
+      layout: page
+      title: ""
+      tagline: "" 
+    "_posts": |
+      layout: post
+      title:    ""
+      tagline:  ""
+      published: false
+      hidden: false  
