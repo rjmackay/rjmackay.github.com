@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Creating an Ushahidi Plugin (a rough guide)
 hidden: true
 ---
