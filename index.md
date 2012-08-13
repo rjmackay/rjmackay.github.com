@@ -16,7 +16,7 @@ tagline: Software Developer and Eco Geek, Works for <a href="http://www.ushahidi
       {{ post.content | strip_html | truncatewords:75}}
       <p><a href="{{ post.url }}">Read more...</a></p>
     </li>
-    {% endif %}
+    {% endunless %}
   {% endfor %}
 </ul>
 
