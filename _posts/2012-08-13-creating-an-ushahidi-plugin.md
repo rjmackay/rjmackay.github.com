@@ -1,7 +1,11 @@
 ---
 layout: post
 published: true
-title: Creating an Ushahidi Plugin (a rough guide)
+title: Creating an Ushahidi Plugin
+tagline: a rough guide
+tags:
+- ushahidi
+- code
 hidden: true
 ---
 
