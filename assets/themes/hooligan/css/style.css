@@ -13,7 +13,6 @@ html, body {
 /* line 18, ../_sass/_base.scss */
 body {
   color: #bbb;
-  text-shadow: 1px 1px 1px #000;
   height: 100%;
   font-family: 'Oxygen', sans-serif;
   font-size: 14px;
@@ -27,6 +26,7 @@ h1, h2, h3, h4, h5, h6 {
   text-rendering: optimizelegibility;
   font-family: 'Advent Pro', sans-serif;
   /*font-family: 'Pontano Sans', sans-serif;*/
+  text-shadow: 1px 1px 1px #000;
 }
 
 /* line 35, ../_sass/_base.scss */
@@ -91,6 +91,7 @@ hr {
 /* line 81, ../_sass/_base.scss */
 .navbar {
   margin-bottom: 0;
+  text-shadow: 1px 1px 1px #000;
 }
 /* line 83, ../_sass/_base.scss */
 .navbar div.navbar-inner {
@@ -167,6 +168,7 @@ hr {
   padding: 20px 20px 10px;
   margin: 0px -20px 20px;
   z-index: 0;
+  text-shadow: 1px 1px 1px #000;
   -moz-border-radius-bottomleft: 5px;
   -webkit-border-bottom-left-radius: 5px;
   -ms-border-bottom-left-radius: 5px;
@@ -402,4 +404,9 @@ div.sidebar section img.icon {
   -ms-border-radius: 5px;
   -o-border-radius: 5px;
   border-radius: 5px;
+}
+
+/* Footer */
+footer {
+  text-shadow: 1px 1px 1px #000;
 }

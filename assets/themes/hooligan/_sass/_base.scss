@@ -16,7 +16,6 @@ html, body {
  
 body {
   color:#bbb;
-  text-shadow:1px 1px 1px #000;
   height:100%; 
   font-family: 'Oxygen', sans-serif; 
   font-size: 14px;
@@ -29,6 +28,7 @@ h1,h2,h3,h4,h5,h6 {
 	text-rendering:optimizelegibility;
 	font-family: 'Advent Pro', sans-serif;
 	/*font-family: 'Pontano Sans', sans-serif;*/
+	text-shadow:1px 1px 1px #000;
 } 
 
 a {
@@ -79,6 +79,7 @@ hr {
 /* Layout */
 .navbar {
   margin-bottom: 0;
+  text-shadow: 1px 1px 1px #000;
   div.navbar-inner {
   	@include border-radius(0);
   	a.brand {
@@ -149,6 +150,7 @@ hr {
 	padding: 20px 20px 10px;
 	margin: 0px -20px 20px;
 	z-index: 0;
+	text-shadow:1px 1px 1px #000;
 	@include border-bottom-left-radius;
 	@include border-bottom-right-radius;
 	h1 {
@@ -265,4 +267,7 @@ div.content {
 	color:#50a1cb !important;
 }
 
-
+/* Footer */
+footer {
+  text-shadow: 1px 1px 1px #000;
+}
