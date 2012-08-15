@@ -33,7 +33,7 @@ The most major change at the moment, and the one thats occupying a lot of my att
 
 
 
-One awesome thing (of many):** I've been amazed how easy it was to save money.**
+One awesome thing (of many): **I've been amazed how easy it was to save money.**
 
 
 
