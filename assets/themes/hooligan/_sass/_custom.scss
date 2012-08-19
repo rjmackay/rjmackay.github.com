@@ -1,1 +1,29 @@
-/* This is for your Custom Content. */
+/* This is for your site's custom styling */
+div.sidebar section {
+  background: #202020;
+  background-color: rgba(0, 0, 0, 0.3);
+  -webkit-box-shadow: rgba(255, 255, 255, 0.1) 0 1px 0, rgba(0, 0, 0, 0.8) 0 1px 7px 0px inset;
+  -moz-box-shadow: rgba(255, 255, 255, 0.1) 0 1px 0, rgba(0, 0, 0, 0.8) 0 1px 7px 0px inset;
+  box-shadow: rgba(255, 255, 255, 0.1) 0 1px 0, rgba(0, 0, 0, 0.8) 0 1px 7px 0px inset;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+  border-radius: 5px;
+  padding: 15px;
+
+  img.icon {
+    float: left;
+    margin: 7px 15px 0 0;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    border-radius: 5px;
+  }
+}
+/* Footer */
+footer {
+  text-shadow: 1px 1px 1px #000;
+}
+
