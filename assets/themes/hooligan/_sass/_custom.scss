@@ -27,3 +27,38 @@ footer {
   text-shadow: 1px 1px 1px #000;
 }
 
+/* code / pre styling */
+code, pre {
+  word-break: normal;
+  word-wrap: normal;
+  white-space: pre;
+  /*white-space: pre-wrap;*/
+    overflow: auto;
+}
+
+/* Reset code/pre styles for Gist */
+.gist {
+  code, pre {
+    /* Reset bootstrap styles */
+    padding: 0;
+    border: none;
+    background: transparent;
+    background-color: transparent;
+    color: inherit;  
+    -webkit-border-radius: none;
+       -moz-border-radius: none;
+            border-radius: none;
+    word-break: normal;
+    word-wrap: normal;
+    white-space: pre;
+    /*white-space: pre-wrap;*/
+    overflow: auto;
+
+    /* Reset darkstrap styles */
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
+    -o-box-shadow: none;
+    box-shadow: none;
+  }
+}
+
