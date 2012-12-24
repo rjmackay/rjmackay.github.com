@@ -6,7 +6,6 @@ tagline: a rough guide
 tags:
 - ushahidi
 - code
-hidden: true
 ---
 
 {% include JB/setup %}
