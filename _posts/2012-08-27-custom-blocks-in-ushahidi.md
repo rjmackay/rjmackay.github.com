@@ -50,11 +50,12 @@ The readme file is required for Ushahidi to pick up the plugin at all.
 
 The hook 'register_category_blocks.php' is included by Ushahidi (and Kohana). This hook registers the 'Wildlife Reports' block with Ushahidi core by calling ```blocks::register()```.
 
-```// Array of block params
+```
+// Array of block params
 $block = array(
   "classname" => "category_wildlife_block", // Must match class name aboce
-	"name" => "Wildlife Reports",
-	"description" => "List the 10 latest reports in the wildlife category"
+  "name" => "Wildlife Reports",
+  "description" => "List the 10 latest reports in the wildlife category"
 );
 // register block with core, this makes it available to users 
 blocks::register($block);
