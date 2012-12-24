@@ -1,12 +1,12 @@
 ---
 layout: post
-published: false
+published: true
 title: Building custom blocks in Ushahidi
 tagline: a rough guide
 tags:
 - ushahidi
 - code
-hidden: false
+hidden: true
 ---
 
 {% include JB/setup %}
@@ -45,6 +45,55 @@ The readme file is required for Ushahidi to pick up the plugin at all.
 {% highlight php+html %}
 {% include snippets/category_wildlife_block.php %}
 {% endhighlight %}
+
+## So how does this work?
+
+The hook 'register_category_blocks.php' is included by Ushahidi (and Kohana). This hook registers the 'Wildlife Reports' block with Ushahidi core by calling ```blocks::register()```.
+
+```// Array of block params
+$block = array(
+  "classname" => "category_wildlife_block", // Must match class name aboce
+	"name" => "Wildlife Reports",
+	"description" => "List the 10 latest reports in the wildlife category"
+);
+// register block with core, this makes it available to users 
+blocks::register($block);
+```
+
+The array passed to ```blocks::register()``` tells Ushahidi the plugin name, description, and where to find the plugin content.
+
+When the plugin is rendered, Ushahidi will call ```category_wildlife_blocks::block()```.
+
+``` 
+// Load the reports block view
+$content = new View('blocks/category_wildlife_block'); // CHANGE THIS IF YOU WANT A DIFFERENT VIEW
+
+// ID of the category we're looking for
+$category_id = 7; // CHANGE THIS
+
+// Get Reports
+$content->incidents = ORM::factory('incident')
+	->with('location')
+	->join('incident_category', 'incident.id', 'incident_category.incident_id')
+	->where('incident_active', '1')
+	->where('category_id', $category_id)
+	->limit('10')
+	->orderby('incident_date', 'desc')
+	->find_all();
+
+echo $content;
+```
+
+This loads the view ```blocks/category_wildlife_block.php``` and passes it a list of incidents: the last 10 incidents with category ID = 7.
+
+## Tweaking it
+
+* Change the category ID - just change line 24 of 'register_category_blocks.php'. You might also want to change the name and class for the block too.
+* Change the html in 'category_wildlife_block.php' - if you want to tweak the output slightly you can easily change it here
+* Filter the incidents by something else - change ```where()``` call on line 30 of 'register_category_blocks.php'
+* Load images or similar - I'll post an example for this in the new year...
+
+## See also
 
 Grab the [Gist](http://gist.github.com/3291463) of all the example code.
 
