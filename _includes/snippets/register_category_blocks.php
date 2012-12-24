@@ -7,7 +7,7 @@ class category_wildlife_block { // CHANGE THIS FOR OTHER BLOCKS
 	{
 		// Array of block params
 		$block = array(
-			"classname" => "category_wildlife_block", // Must match class name aboce
+			"classname" => "category_wildlife_block", // Must match class name above
 			"name" => "Wildlife Reports",
 			"description" => "List the 10 latest reports in the wildlife category"
 		);

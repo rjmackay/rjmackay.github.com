@@ -30,16 +30,30 @@ In your Ushahidi install find the directory 'plugins' and create a new folder. T
 In more complicated plugins we might also have libraries, controllers, helpers or anything else that exists
 in the usual Kohana module structure. But for this simple case lets still to just hooks and views.
 
-## readme.txt
-The readme file is required for Ushahidi to pick up the plugin at all.
+### readme.txt
+The readme file is required for Ushahidi to pick up the plugin at all. The first section of this file is parsed for plugin name, description and other details used in the Ushahidi admin.
 
-## hooks/register_category_blocks.php
+<pre>
+=== About ===
+name: Category Block
+website: http://www.ushahidi.com
+description: Adds custom category blocks
+version: 0.1
+requires: 2.5
+tested up to: 2.5
+author: Ushahidi Team
+author website: http://www.ushahidi.com
+
+Add any other docs here
+</pre>
+
+### hooks/register_category_blocks.php
 
 {% highlight php %}
 {% include snippets/register_category_blocks.php %}
 {% endhighlight %}
 
-## views/category_block.php
+### views/category_block.php
 
 {% highlight php+html %}
 {% include snippets/category_wildlife_block.php %}
@@ -49,7 +63,8 @@ The readme file is required for Ushahidi to pick up the plugin at all.
 
 The hook 'register_category_blocks.php' is included by Ushahidi (and Kohana). This hook registers the 'Wildlife Reports' block with Ushahidi core by calling ```blocks::register()```.
 
-```
+{% highlight php %}
+<?php
 // Array of block params
 $block = array(
   "classname" => "category_wildlife_block", // Must match class name aboce
@@ -58,39 +73,40 @@ $block = array(
 );
 // register block with core, this makes it available to users 
 blocks::register($block);
-```
+{% endhighlight %}
 
 The array passed to ```blocks::register()``` tells Ushahidi the plugin name, description, and where to find the plugin content.
 
 When the plugin is rendered, Ushahidi will call ```category_wildlife_blocks::block()```.
 
-``` 
+{% highlight php %}
+<?php
 // Load the reports block view
 $content = new View('blocks/category_wildlife_block'); // CHANGE THIS IF YOU WANT A DIFFERENT VIEW
-
+  
 // ID of the category we're looking for
 $category_id = 7; // CHANGE THIS
-
+  
 // Get Reports
 $content->incidents = ORM::factory('incident')
-	->with('location')
+    ->with('location')
 	->join('incident_category', 'incident.id', 'incident_category.incident_id')
 	->where('incident_active', '1')
 	->where('category_id', $category_id)
 	->limit('10')
 	->orderby('incident_date', 'desc')
 	->find_all();
-
+  
 echo $content;
-```
+{% endhighlight %}
 
 This loads the view ```blocks/category_wildlife_block.php``` and passes it a list of incidents: the last 10 incidents with category ID = 7.
 
 ## Tweaking it
 
-* Change the category ID - just change line 24 of 'register_category_blocks.php'. You might also want to change the name and class for the block too.
-* Change the html in 'category_wildlife_block.php' - if you want to tweak the output slightly you can easily change it here
-* Filter the incidents by something else - change ```where()``` call on line 30 of 'register_category_blocks.php'
+* Change the category ID - just change line 24 of ```register_category_blocks.php```. You might also want to change the name and class for the block too.
+* Change the html in ```category_wildlife_block.php``` - if you want to tweak the output slightly you can easily change it here
+* Filter the incidents by something else - change ```where()``` call on line 30 of ```register_category_blocks.php```
 * Load images or similar - I'll post an example for this in the new year...
 
 ## See also
@@ -98,3 +114,4 @@ This loads the view ```blocks/category_wildlife_block.php``` and passes it a lis
 Grab the [Gist](http://gist.github.com/3291463) of all the example code.
 
 See also: [wiki docs on creating Ushahidi plugins](https://wiki.ushahidi.com/display/WIKI/Plugins+-+Developers+Guide)
+
