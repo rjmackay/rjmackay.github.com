@@ -55,7 +55,7 @@ Add any other docs here
 
 ### views/category_block.php
 
-{% highlight php+html %}
+{% highlight html+php %}
 {% include snippets/category_wildlife_block.php %}
 {% endhighlight %}
 
@@ -67,7 +67,7 @@ The hook 'register_category_blocks.php' is included by Ushahidi (and Kohana). Th
 <?php
 // Array of block params
 $block = array(
-  "classname" => "category_wildlife_block", // Must match class name aboce
+  "classname" => "category_wildlife_block", // Must match class name above
   "name" => "Wildlife Reports",
   "description" => "List the 10 latest reports in the wildlife category"
 );
@@ -84,8 +84,10 @@ When the plugin is rendered, Ushahidi will call ```category_wildlife_blocks::blo
 <?php
   // Load the reports block view
   $content = new View('blocks/category_wildlife_block'); // CHANGE THIS IF YOU WANT A DIFFERENT VIEW
+
   // ID of the category we're looking for
   $category_id = 7; // CHANGE THIS
+
   // Get Reports
   $content->incidents = ORM::factory('incident')
     ->with('location')
