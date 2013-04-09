@@ -73,6 +73,7 @@ $block = array(
 );
 // register block with core, this makes it available to users 
 blocks::register($block);
+?>
 {% endhighlight %}
 
 The array passed to ```blocks::register()``` tells Ushahidi the plugin name, description, and where to find the plugin content.
@@ -81,23 +82,21 @@ When the plugin is rendered, Ushahidi will call ```category_wildlife_blocks::blo
 
 {% highlight php %}
 <?php
-// Load the reports block view
-$content = new View('blocks/category_wildlife_block'); // CHANGE THIS IF YOU WANT A DIFFERENT VIEW
-  
-// ID of the category we're looking for
-$category_id = 7; // CHANGE THIS
-  
-// Get Reports
-$content->incidents = ORM::factory('incident')
+  // Load the reports block view
+  $content = new View('blocks/category_wildlife_block'); // CHANGE THIS IF YOU WANT A DIFFERENT VIEW
+  // ID of the category we're looking for
+  $category_id = 7; // CHANGE THIS
+  // Get Reports
+  $content->incidents = ORM::factory('incident')
     ->with('location')
-	->join('incident_category', 'incident.id', 'incident_category.incident_id')
-	->where('incident_active', '1')
-	->where('category_id', $category_id)
-	->limit('10')
-	->orderby('incident_date', 'desc')
-	->find_all();
-  
-echo $content;
+    ->join('incident_category', 'incident.id', 'incident_category.incident_id')
+    ->where('incident_active', '1')
+    ->where('category_id', $category_id)
+    ->limit('10')
+    ->orderby('incident_date', 'desc')
+    ->find_all();
+  echo $content;
+?>
 {% endhighlight %}
 
 This loads the view ```blocks/category_wildlife_block.php``` and passes it a list of incidents: the last 10 incidents with category ID = 7.
