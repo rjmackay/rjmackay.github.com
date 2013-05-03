@@ -23,7 +23,7 @@ First impression: **its really really easy to get started**, and the docs were g
 
 ### Installing Behat, Mink and Guzzle.
 
-We use [composer](http://getcomposer.org) to install behat, mink and guzzle. I had just been doing this locally anyway so that turned out to be easy. Just add:
+We use [composer](http://getcomposer.org) to install [behat](behat.org), [mink](http://mink.behat.org/) and guzzle. I had just been doing this locally anyway so that turned out to be easy. Just add:
 
 {% highlight yaml %}
 before_script:
@@ -105,4 +105,7 @@ I develop on OS X using a Vagrant box that mounts project code over NFS. The sid
 The Travis builds run on a standard Ubuntu box: I suddenly hit errors about missing classes, etc.
 
 Fixing this was a bit slow and painful but actually a win in the long run. The first linux user to fire up the code base would have hit these issues immediately!
+
+## Done
+In the end getting this set up took longer than expected, but I'm pretty pleased with the result. I've merged these changes into all my work-in-progress branches and fixed a few bugs as a result already. I'll call that success.
 
