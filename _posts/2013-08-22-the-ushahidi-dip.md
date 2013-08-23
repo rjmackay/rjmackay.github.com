@@ -1,5 +1,5 @@
 ---
-date: {}
+date: "3013-08-22"
 title: The Ushahidi Dip
 tagline: ""
 tags: 
@@ -7,11 +7,8 @@ tags:
   - management
   - context switching
   - focus
-published: 
-  - true
-  - "false"
+published: "false"
 layout: post
-hidden: "false"
 ---
 
 I started seriously considering other jobs again this week.
