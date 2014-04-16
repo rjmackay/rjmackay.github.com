@@ -9,7 +9,6 @@ tags:
   - timezones
   - distributed
 ---
-{% include JB/setup %}
 
 My alarm goes off early.. I jump out of bed, a bit groggy and head for a quick 2 min shower.
 Grab breakfast - bowl of serial

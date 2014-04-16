@@ -7,9 +7,8 @@ tags:
 - ushahidi
 - ui
 - architecture
-- 
+-
 ---
-{% include JB/setup %}
 
 The Ushahidi v3 API has started to reach a basic workable point: it handles posts (with revisions, translations and updates), forms, attributes, tags and sets. We can do a rough import of data from Ushahidi 2.x. There's more work to do on but I think we've reached a stage where its valuable to start prototyping frontend UI, not just perfecting the API.
 
@@ -35,11 +34,11 @@ My research has led me to a lot of build processes for compressing CSS and JS, c
 
 * Easy to deploy
 	* While we should support complex scalable architectures, part of what has made Ushahidi successful is its ease of deployment. Ushahidi should be deployable as a single web app with a minimal set of external requirements.
-	* It is tempting to split into an API and Frontend as seperate applications, or spin search out to ApacheSolr, etc .. but while these might be possible, they should not be required. 
+	* It is tempting to split into an API and Frontend as seperate applications, or spin search out to ApacheSolr, etc .. but while these might be possible, they should not be required.
 * Secure by default
 	* As much as possible Ushahidi should protect the security and privacy of both deployers and reporters by default.
 	* This includes supporting easy, usable options for anonymity and pseudonymity
-	* Encouraging deployers to consider privacy and security in the context of their project  
+	* Encouraging deployers to consider privacy and security in the context of their project
 * Mobile friendly
 	* Responses to this take multiple forms: mobile first responsive design, mobile apps, offline web apps
 * Web Security best practice

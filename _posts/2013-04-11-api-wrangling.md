@@ -4,7 +4,6 @@ title: "API wrangling"
 tagline: "Designing the API for Ushahidi 3.0"
 tags: [ushahidi, api]
 ---
-{% include JB/setup %}
 
 Following on from my [Building 3.0](http://blog.ushahidi.com/2013/03/21/building-ushahidi-3-0/) blog post, here's another update on Ushahidi 3.0.
 
@@ -23,7 +22,7 @@ A few valuable resources:
 
 The last couple of weeks have been dominated by the thousands of tiny decisions made at each step of building the API. I've tried to keep the wiki updated with the [general patterns](https://wiki.ushahidi.com/display/WIKI/REST+API#RESTAPI-GeneralPatterns) of our API. This gives a few guidelines
 
-* What methods to use, and how to accomodate more complex queries (ie. search) 
+* What methods to use, and how to accomodate more complex queries (ie. search)
 * What HTTP response codes to use
 * What to cover in functional tests
 * How to expose relations and links beteen resources

@@ -8,8 +8,6 @@ tags:
 - code
 ---
 
-{% include JB/setup %}
-
 I've been meaning to write this up for a while. Adding custom blocks to Ushahidi is a fairly common request
 but generally requires a developer, or at least some basic coding skills. However for some basic use cases
 it should be possible to add a block with a bit of cut and paste scripting.
@@ -71,7 +69,7 @@ $block = array(
   "name" => "Wildlife Reports",
   "description" => "List the 10 latest reports in the wildlife category"
 );
-// register block with core, this makes it available to users 
+// register block with core, this makes it available to users
 blocks::register($block);
 ?>
 {% endhighlight %}

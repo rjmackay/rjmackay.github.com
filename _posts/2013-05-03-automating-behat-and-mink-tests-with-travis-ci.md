@@ -4,7 +4,6 @@ title: "Automating Behat and Mink tests with Travis CI"
 tagline: "Better testing for Ushahidi 3.0"
 tags: [ushahidi, testing]
 ---
-{% include JB/setup %}
 
 I was excited to see Github now shows [build status branches](https://github.com/blog/1484-check-the-status-of-your-branches). Even more so when I [submitted code](https://github.com/bshaffer/oauth2-server-php/pull/112) to an upstream library and was surprised by the tests results appearing in my pull request.
 
@@ -42,7 +41,7 @@ script:
 
 ## Further config
 
-The next steps get little trickier. 
+The next steps get little trickier.
 
 Bootstrapping the DB wasn't too bad. Add mysql to 'services' and add a couples of 'before_script' steps:
 

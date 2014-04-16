@@ -6,15 +6,13 @@ tags:
 - ushahidi
 ---
 
-{% include JB/setup %}
-
 I've been thinking around how we manage our bug and features backlogs.
 The current Ushahidi 2.x backlogs have 144 features, and 47 Open bugs (even more last week before our bug fix sprint). At this size these start to get a little unweildy and feel overwhelming.
 
 My previous experience with Kanban and other agile methods has demonstrated that limiting work-in-progress, can make life for developers and customers much easier. It reduces the number of things you need to think about, and the amount of time spent on work that hasn't yet shipped.
 
 I recently read [joelonsoftware](http://www.joelonsoftware.com/items/2012/07/09.html) talking about software inventory and I've been thinking about how this could be applied to Ushahidi.
-We're building open source software, and delivering a long lived product, not just a one off project, so not everything transfers perfectly. 
+We're building open source software, and delivering a long lived product, not just a one off project, so not everything transfers perfectly.
 
 For instance _"Do not allow more than two weeks (in fix time) of bugs to get into the bug database"_ just doesn't work for us. Our users can add bugs directly themselves and we have no desire to change that, and our pace is slower as our resources are stretched.
 

@@ -3,13 +3,12 @@ date: 2013-12-30
 layout: post
 published: false
 title: "Building an offline admin for Ushahidi"
-tagline: "" 
-tags: 
+tagline: ""
+tags:
 - ushahidi
 - code
 - html5
 ---
-{% include JB/setup %}
 
 # Building an HTML5 offline plugin for Ushahidi
 
@@ -113,7 +112,7 @@ My solution: hack a quick rest api plugin, that follows more RESTful principles.
 
 * Separate URLs for different resources: incidents, categories, users.
 * Recognises GET/PUT/POST/DELETE
-* 
+*
 
 ## Appcache Manifest
 
