@@ -1,0 +1,6 @@
+{% if page.location.points %}
+	<div class="page-feature-map map" id="page-feature-map"></div>
+	{% if page.location.caption %}
+		<p class="location-caption">{{ page.location.caption }}</p>
+	{% endif %}
+{% endif %}
