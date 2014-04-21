@@ -55,7 +55,7 @@
 {% endif %}
 {% if page.comments != false %}{% include disqus_comments.html %}{% endif %}
 
-{% unless page.location.points.empty? %}
+{% if page.location.points %}
   <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.2/leaflet.css" />
   <script src="http://cdn.leafletjs.com/leaflet-0.7.2/leaflet.js"></script>
 
@@ -92,4 +92,4 @@
     }
   });
   </script>
-{% endunless %}
+{% endif %}
