@@ -79,6 +79,6 @@ Every year Ushahidi brings our team together for a week. Largely to touch base w
 
 Chatting at the pub after Gather another good question came from [wombleton](https://twitter.com/wombleton): has anyone experienced broken, failing remote work and resolved it? what happened? how did they bring it back? Breakdown is easy to achieve: miscommunication, not including remote workers, silo'd info. There's a lot of opportunity for making things difficult in remote work.. but I haven't seen much about how to get things back to workability again if you hit that point.
 
-** I'm pretty happy to have started discussion. Looking forward to doing it again at Gather next year, or elsewhere**
+**I'm pretty happy to have started discussion. Looking forward to doing it again at Gather next year, or elsewhere**
 
 
