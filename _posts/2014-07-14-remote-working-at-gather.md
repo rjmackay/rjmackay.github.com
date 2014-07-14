@@ -4,7 +4,7 @@ title: "Remote Working @ Gather"
 modified: 2014-07-14 19:49:07 +1200
 tags: [gather, conference, remote work, distributed]
 image:
-  feature: secrets-of-remote.png
+  feature: secrets-of-remote.jpg
   credit: Robbie Mackay
   creditlink: 
 comments: true
