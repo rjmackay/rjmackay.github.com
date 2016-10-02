@@ -10,7 +10,7 @@ image:
   creditlink: http://robbiemackay.com
 ---
 
-I build things. Mostly software. I work for Ushahidi[^1].
+I build things. Mostly software. I work for [Ushahidi](http://ushahidi.com).
 I care about activism, freedom, and privacy. Trying to make the world a little bit better, but mostly enabling people to do that for themselves.
 
-[^1]: [Ushahidi](http://ushahidi.com)
+Have a look at my [work experience](/resume/).
