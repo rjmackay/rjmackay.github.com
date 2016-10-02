@@ -12,10 +12,11 @@ image:
   credit:
   creditlink:
 location:
+  zoom: 12
   points:
   -
-    lat: 174.6234908
-    lon: -36.876787
+    lon: 174.6234908
+    lat: -36.876787
   caption: Writing from Henderson, Auckland, NZ
 comments: true
 share:
