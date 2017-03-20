@@ -44,6 +44,8 @@ links:
     url: /resume/
   - title: Articles
     url: /articles/
+  - title: TIL
+    url: /learned/
 #  - title: Made Mistakes
 #    url: http://mademistakes.com
 #    external: true
