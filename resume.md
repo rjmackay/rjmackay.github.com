@@ -43,8 +43,8 @@ I tend to a collaborative working style, but enjoy the uninterrupted periods of 
 ### Ushahidi – CTO *2015 - Present*
 * Leading Ushahidi's tech team for Ushahidi's products
 * Setting technical direction for Ushahidi's products (Ushahidi and RollCall)
-* Improving development process leading to??
-* Improving software quality leading to ??
+* Improving development process
+* Improving software quality
 * Built culture of code review and testing
 
 ### Ushahidi – Lead Developer *2014 - 2015*
@@ -53,7 +53,7 @@ I tend to a collaborative working style, but enjoy the uninterrupted periods of 
 * Launch SaaS edition of Ushahidi v3, based on OSS product
 * Defined clean architecture for Ushahidi v3 API and Client
 
-### Ushahidi – External Project Developer *2012 - 2014*
+### Ushahidi – External Projects Developer *2012 - 2014*
 * Main technical contact and lead developer on custom Ushahidi deployments for external partners.
 * Working within an existing legacy code base. Fixing security issues.
 * Deployed and managed servers for client projects.
