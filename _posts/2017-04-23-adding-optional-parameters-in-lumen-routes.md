@@ -15,7 +15,7 @@ Initially reading the [documentation](https://lumen.laravel.com/docs/5.4/routing
 
 
 <blockquote>
-<p>parts of the route enclosed in [...] are considered optional, so that <code>/foo[bar]</code> will match both <code>/foo</code> and <code>/foobar</code>. Optional parts are only supported in a trailing position, not in the middle of a route.
+parts of the route enclosed in [...] are considered optional, so that <code>/foo[bar]</code> will match both <code>/foo</code> and <code>/foobar</code>. Optional parts are only supported in a trailing position, not in the middle of a route.
 </blockquote>
 
 So you can do something like
