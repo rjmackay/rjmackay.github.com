@@ -11,7 +11,7 @@ tags:
 I've been working on migrating [Ushahidi](https://www.ushahidi.com) from [Kohana](https://kohanaframework.org/) to [Lumen](https://lumen.laravel.com) recently. Lumen uses a [FastRoute](https://github.com/nikic/FastRoute) instead of Laravels core router. This is faster than the core route, but also more limited.
 
 
-Initially reading the [documentation](https://lumen.laravel.com/docs/5.4/routing) it appears not to support optional URL parameters. But digging into the Fast Route docs it turns out there is some support:
+Initially reading the [documentation](https://lumen.laravel.com/docs/5.4/routing) ~~it appears not to support optional URL parameters~~ **Optional URL parameters are now included in the routing docs**. But digging into the Fast Route docs it turns out there is some support:
 
 
 <blockquote>
