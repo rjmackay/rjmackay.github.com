@@ -9,9 +9,7 @@ categories: []
 ---
 
 
-# Less coffee
-
-I've been experimenting over the last week with reducing my coffee habit, and seeing how that effects my mood, productivity, sleep etc.
+<span style="font-size: 1rem;">I've been experimenting over the last week with reducing my coffee habit, and seeing how that effects my mood, productivity, sleep etc.</span>
 
 I started at about 3 cups / day. I realised a long time ago that much more that 3 cups a day is probably my limit. Much more and I don't sleep properly and sometimes get jittery.
 
