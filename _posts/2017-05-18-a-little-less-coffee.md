@@ -7,9 +7,7 @@ tags:
 - life
 categories: []
 ---
-
-
-<span style="font-size: 1rem;">I've been experimenting over the last week with reducing my coffee habit, and seeing how that effects my mood, productivity, sleep etc.</span>
+I've been experimenting over the last week with reducing my coffee habit, and seeing how that effects my mood, productivity, sleep etc.
 
 I started at about 3 cups / day. I realised a long time ago that much more that 3 cups a day is probably my limit. Much more and I don't sleep properly and sometimes get jittery.
 
@@ -23,7 +21,7 @@ What I've noticed so far:
 
 - I've built rituals around coffee. ie. writing and coffee
 
-- I think more clearly in the morning *without* the coffee. At least some of the time
+- I think more clearly in the morning*without* the coffee. At least some of the time
 
 - Tiredness and coffee are a bad combination. Where tiredness by itself I can work through. Also if I haven't had coffee, I can usually nap.
 
