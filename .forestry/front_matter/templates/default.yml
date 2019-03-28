@@ -26,6 +26,7 @@ fields:
   type: tag_list
   label: Categories
 pages:
+- _posts/this-week-2.md
 - _posts/2019-03-28-this-week.md
 - _posts/building-a-progressive-web-app.md
 - _posts/questions-i-wish-people-asked-in-an-interview.md
