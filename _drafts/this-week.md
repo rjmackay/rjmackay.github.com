@@ -1,0 +1,31 @@
+---
+author: Robbie Mackay
+title: This week
+date: 2019-03-28 00:00:00 +1300
+tags: []
+categories: []
+
+---
+A random collection of technical, management and other thoughts from this week.
+
+### Thinking
+
+I've been reflecting a little on how much time I've spent on operations work in previous roles - wrangling servers, configuring everything from DNS to job queues. I think in many of those situation the companies involved would have got much better value from managed / off the shelf solutions. In the smaller ones it might be that they could have just used a managed Drupal or Wordpress host. In others they needed a full continuous development pipeline but might have been able to get 90% of that from Heroku.
+
+It's easy to look at Heroku (and similar providers) on paper and label it 'too expensive', but when I think of the hundreds of hours spent setting up a deployment pipeline and automating server configurations it would probably have balanced out. The worst factor in roll-your-own solutions is that they potentially slow down the development, so the cost compounds over time.
+
+It does seem like there might be a gap between a Heroku-style solution which is expensive but basically does everything for you, and a DIY deployment pipeline shipping to EC2 or a Kube cluster. As a company grows, and Heroku gets expensive but the dev team is still < 20 people, it's not clear to me where those teams should land.
+
+### Reading
+
+[Your work is not your worth](https://leowid.com/uncoupling-worth-work/ "Your work is not your worth"). Trying to square what I know (_I am not my work_) with how I feel.
+
+This [twitter thread](https://twitter.com/rrhoover/status/1109542350659817472?s=20) from Ryan Hoover. Getting paid as an remote contractor outside the US feels messier than necessary, and having a bunch of remote employees in many countries seems nearly impossible for small start ups right now.
+
+[Calculating the mean of a list of numbers](https://hypothesis.works/articles/calculating-the-mean/ "Calculating the mean of a list of numbers"). Turns out this is much harder than you'd think.
+
+[Born for it](https://martinfowler.com/articles/born-for-it.html "Born for it"). A write up of how the image of a socially-awkward, white, male programmer came about, including some good take-aways about how the women and people of colour are disadvantaged by idea of intellectual ability as a fixed gift vs something you can improve over time.
+
+### Listening
+
+A lot of [Keeno](https://soundcloud.com/keenodnb) and other dnb. I'll try to pay more attention for next week!
