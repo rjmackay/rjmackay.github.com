@@ -10,7 +10,9 @@ A random collection of technical, management and other thoughts from this week.
 
 ### Thinking
 
-I've been reflecting a little on how much time I've spent on operations work in previous roles - wrangling servers, configuring everything from DNS to job queues. I think in many of those situation the companies involved would have got much better value from managed / off the shelf solutions. In the smaller ones it might be that they could have just used a managed Drupal or Wordpress host. In others they needed a full continuous development pipeline but might have been able to get 90% of that from Heroku.
+I've been reflecting a little on how much time I've spent on operations work in previous roles - wrangling servers, configuring everything from DNS to job queues.
+
+I think in many projects I've worked on the companies involved would have got much better value from managed / off the shelf solutions. In the smaller ones it might be that they could have just used a managed Drupal or Wordpress host. In others they needed a full continuous development pipeline but might have been able to get 90% of that from Heroku.
 
 It's easy to look at Heroku (and similar providers) on paper and label it 'too expensive', but when I think of the hundreds of hours spent setting up a deployment pipeline and automating server configurations it would probably have balanced out. The worst factor in roll-your-own solutions is that they potentially slow down the development, so the cost compounds over time.
 
