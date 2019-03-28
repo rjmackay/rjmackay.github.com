@@ -4,7 +4,7 @@ author: Robbie Mackay
 date: '2017-05-18T12:57:51+00:00'
 tags:
 - coffee
-- life
+- Life
 categories: []
 ---
 I've been experimenting over the last week with reducing my coffee habit, and seeing how that effects my mood, productivity, sleep etc.
