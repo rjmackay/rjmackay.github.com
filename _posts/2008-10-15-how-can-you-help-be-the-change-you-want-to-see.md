@@ -3,7 +3,6 @@ layout: post
 title: How can you help? Be the change you want to see...
 tags:
 - blog action day
-- bwagy
 - change
 - fair trade
 - Inspiration

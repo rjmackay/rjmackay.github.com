@@ -2,13 +2,9 @@
 layout: post
 title: 15 minutes to live
 tags:
-- 15 mins
-- family
 - Life
 - love
-- thanks
 - Trust30
-- trust30
 status: publish
 type: post
 published: true
@@ -18,12 +14,12 @@ meta:
 
 >
 > *We are afraid of truth, afraid of fortune, afraid of death, and afraid of each other. Our age yields no great and perfect persons. – Ralph Waldo Emerson*
-> 
+>
 > You just discovered you have fifteen minutes to live.
-> 
+>
 > 1. Set a timer for fifteen minutes.
 > 2. Write the story that has to be written.
-> 
+>
 > [http://ralphwaldoemerson.me/gwen-bell](http://ralphwaldoemerson.me/gwen-bell)
 >
 

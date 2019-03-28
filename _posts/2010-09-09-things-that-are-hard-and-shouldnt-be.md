@@ -3,8 +3,6 @@ layout: post
 title: Things that are hard... and shouldn't be
 tags:
 - code
-- efficiency
-- inefficient
 - Software
 status: publish
 type: post

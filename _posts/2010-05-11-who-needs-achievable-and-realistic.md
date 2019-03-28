@@ -5,7 +5,6 @@ tags:
 - Get things done
 - goals
 - smart
-- smt goals
 - unrealistic
 status: publish
 type: post

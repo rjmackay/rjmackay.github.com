@@ -5,9 +5,6 @@ tags:
 - Ideas
 - Inspiration
 - seth godin
-- society
-- tall poppy syndrome
-- the dip
 - thoughts
 status: publish
 type: post

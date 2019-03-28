@@ -2,11 +2,9 @@
 layout: post
 title: Energy Crossroads
 tags:
-- energy crossroads
 - environment
 - Inspiration
 - movie
-- reel earth
 - save the world
 status: publish
 type: post

@@ -6,7 +6,6 @@ tags:
 - Get things done
 - Inspiration
 - intersect
-- optimisation
 - seth godin
 - time
 status: publish

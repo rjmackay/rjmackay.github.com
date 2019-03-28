@@ -6,7 +6,6 @@ tags:
 - energy
 - environment
 - Inspiration
-- petrol
 - think
 status: publish
 type: post

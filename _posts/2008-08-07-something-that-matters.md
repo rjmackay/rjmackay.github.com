@@ -7,7 +7,6 @@ tags:
 - love
 - make a difference
 - money
-- something that matters
 - work
 status: publish
 type: post

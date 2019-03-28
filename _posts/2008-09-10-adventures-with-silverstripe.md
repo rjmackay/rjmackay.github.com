@@ -4,9 +4,7 @@ title: Adventures with Silverstripe
 tags:
 - bug
 - cms
-- hacking
 - hamish campbell
-- patch
 - php
 - silverstripe
 - Software

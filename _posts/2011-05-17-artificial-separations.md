@@ -6,8 +6,6 @@ tags:
 - Everything else
 - generosity
 - Life
-- one
-- planet
 - terrorist
 status: publish
 type: post

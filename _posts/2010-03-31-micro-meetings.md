@@ -4,8 +4,6 @@ title: Micro meetings
 tags:
 - Get things done
 - Ideas
-- meetings
-- micromeetings
 - rework
 status: publish
 type: post

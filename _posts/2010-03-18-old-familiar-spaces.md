@@ -4,8 +4,6 @@ title: Old familiar spaces...
 tags:
 - adventure
 - Life
-- slice of life
-- spaces
 status: publish
 type: post
 published: true

@@ -8,7 +8,7 @@ tags:
 - globalisation
 - markets
 - quote
-- seth goin
+- seth godin
 status: publish
 type: post
 published: true

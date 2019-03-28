@@ -3,12 +3,10 @@ layout: post
 title: Dream more...
 tags:
 - dream
-- Dream more
 - flickr
 - Photo
 - quotes
 - work
-- Work less
 status: publish
 type: post
 published: true
