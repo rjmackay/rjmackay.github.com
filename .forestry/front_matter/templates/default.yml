@@ -1,7 +1,6 @@
 ---
 label: Default
 hide_body: false
-is_partial: false
 fields:
 - type: text
   label: Title
@@ -27,6 +26,7 @@ fields:
   type: tag_list
   label: Categories
 pages:
+- _posts/building-a-progressive-web-app.md
 - _posts/questions-i-wish-people-asked-in-an-interview.md
 - _posts/2017-05-18-a-little-less-coffee.md
 - _posts/2017-04-23-adding-optional-parameters-in-lumen-routes.md
