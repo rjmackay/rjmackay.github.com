@@ -6,4 +6,4 @@ tags: []
 categories: []
 
 ---
-Thanks to @tmcw for [inspiration](https://macwright.org/2019/02/06/how-to-blog.html "How to blog") to just do something simple each week
+Thanks to [@tmcw](https://macwright.org) for [inspiration](https://macwright.org/2019/02/06/how-to-blog.html "How to blog") to just do something simple each week
