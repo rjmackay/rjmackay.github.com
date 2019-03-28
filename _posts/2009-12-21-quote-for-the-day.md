@@ -3,7 +3,7 @@ layout: post
 title: Quote for the day
 tags:
 - Inspiration
-- Quotes
+- quote
 status: publish
 type: post
 published: true

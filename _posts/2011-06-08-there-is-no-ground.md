@@ -3,8 +3,7 @@ layout: post
 title: There is no ground...
 tags:
 - falling
-- quote
-- Quotes
+- quotes
 - rinpoche
 status: publish
 type: post

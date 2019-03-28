@@ -4,8 +4,7 @@ title: What makes you come alive...
 tags:
 - alive
 - harold whitman
-- quote
-- Quotes
+- quotes
 status: publish
 type: post
 published: true

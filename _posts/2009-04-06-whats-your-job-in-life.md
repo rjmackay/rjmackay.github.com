@@ -7,8 +7,7 @@ tags:
 - job
 - Life
 - purpose
-- quote
-- Quotes
+- quotes
 status: publish
 type: post
 published: true

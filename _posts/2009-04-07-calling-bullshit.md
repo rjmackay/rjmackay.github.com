@@ -7,7 +7,7 @@ tags:
 - Life
 - love
 - purpose
-- Quotes
+- quotes
 status: publish
 type: post
 published: true

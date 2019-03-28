@@ -5,8 +5,7 @@ title: If "being part of something meaningful comes with sadness, loneliness, an
 tags:
 - Chris Guillebeau
 - Life
-- quote
-- Quotes
+- quotes
 status: publish
 type: post
 published: true
