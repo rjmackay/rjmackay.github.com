@@ -6,19 +6,15 @@ tags: []
 modified: 2014-12-08 00:00:00 +0000
 
 ---
-I have 10+ years of experience building full stack web apps, with a focus on non profits and companies with a social purpose. I've spent the last 4 years working remotely for [Ushahidi](https://www.ushahidi.com), leading development on our flagship application, and now managing the distributed development team.
+A thoughtful technical leader with over 10 years experience building successful web applications, with a focus on nonprofits and companies that make the world a better place. I thrive in a passionate collaborative team, driven by users needs and with freedom to make things better.
 
-I have taken projects from day zero through to launch, and iterating beyond. I enjoy both carefully architecting a system for the future, and just sprinting to launch when needed. I like to work close to users, be driven by their needs and deliver a great experience.
-
-I tend to a collaborative working style, but enjoy the uninterrupted periods of independent work.
+Download PDF: [Dev](/resume/CV%20Robbie%20Mackay%202019%20-%20Dev.pdf) | [Lead](/resume/CV%20Robbie%20Mackay%202019%20-%20Lead.pdf)
 
 ## Experience
 
-<style>h3 em { float: right; }</style>
-
 ### Basis – Lead Developer
 
-2019 - Present. Remote.
+2019 - Present. Remote.  
 Basis is an early stage startup working on a new model for mental health. I joined as the second developer.
 
 * Implemented a minimal agile dev process, metrics, and continuous delivery pipeline for fast, high quality releases, with increased visibility.
@@ -31,7 +27,7 @@ Python, PostgreSQL, Javascript, Redis, Celery, Heroku.
 
 ### Ushahidi – CTO
 
-2015 - 2018. Remote.
+2015 - 2018. Remote.  
 Ushahidi is an open-source crowdsourcing platform to collect, manage, visualize, and respond to data from marginalized people or people in crisis situations.
 
 * Led and mentored a distributed development team, building an open, collaborative and engaged culture.
@@ -44,7 +40,7 @@ PHP, Laravel, Kohana, Javascript, React, AngularJS, Python, MySQL, RabbitMQ, Ans
 
 ### Ushahidi – Senior Developer
 
-2012 - 2015. Remote
+2012 - 2015. Remote.  
 I joined Ushahidi in 2012 to lead development of client projects. In 2014 I led development of a new iteration of Ushahidi software.
 
 * Led the rebuild of Ushahidi’s open-source crowdsourcing tool.
@@ -57,7 +53,7 @@ PHP, Laravel, Kohana, Javascript, AngularJS, Python, MySQL, RabbitMQ, Ansible.
 
 ### Torchbox Ltd – Drupal Web Developer
 
-2010 - 2011. Oxford, UK
+2010 - 2011. Oxford, UK.  
 Torchbox is a digital agency building websites and application for people trying to make the world a better place.
 
 * Developed complex Drupal based sites for charities and nonprofits.
@@ -68,7 +64,7 @@ PHP, Drupal, Javascript, Python, MySQL, Sass, HTML, CSS.
 
 ### Greenpeace New Zealand – Web Developer
 
-2009 - 2010. Auckland, NZ
+2009 - 2010. Auckland, NZ.  
 Joined Greenpeace NZ in 2009 as their first full time developer, initially focussed on supporting a large online campaign around climate change.
 
 * Developed multiple web applications and websites.
@@ -79,11 +75,12 @@ Joined Greenpeace NZ in 2009 as their first full time developer, initially focus
 PHP, Drupal, Silverstripe, Javascript, HTML, CSS, MySQL, PostgreSQL
 
 ### Engineers Without Borders NZ – Web manager (Volunteer)
+
 2008 - 2010. Auckland, NZ
 
 ### Freelance - Web Developer
 
-2002 - 2009
+2002 - 2009. NZ  
 Worked as a freelance web developer part time while studying and then full time for a year. Developed a range of websites and applications for small businesses.
 
 PHP, Silverstripe, Javascript, HTML + CSS.
