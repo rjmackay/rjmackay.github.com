@@ -79,22 +79,22 @@ PHP, Drupal, Silverstripe, Javascript, HTML, CSS, MySQL, PostgreSQL
 
 ### Engineers Without Borders NZ – Web manager (Volunteer)
 
-2008 - 2010. Auckland, NZ
+2008 - 2010. Auckland, NZ.
 
 ### Freelance - Web Developer
 
-2002 - 2009. NZ  
+2002 - 2009. NZ.  
 Worked as a freelance web developer part time while studying and then full time for a year. Developed a range of websites and applications for small businesses.
 
 PHP, Silverstripe, Javascript, HTML + CSS.
 
 ### Genesis Interactive – Web Developer
 
-Summer 2007 - 2008
+Summer 2007 - 2008.
 
 ### Navman – Software Testing Engineer
 
-Summer 2006 - 2007
+Summer 2006 - 2007.
 
 ## Education
 
