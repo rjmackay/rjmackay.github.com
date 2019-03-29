@@ -1,11 +1,13 @@
 ---
 layout: page
 permalink: "/resume/"
-title: Work experience
+title: Work
 tags: []
 modified: 2014-12-08 00:00:00 +0000
 
 ---
+**Software Developer & Engineering Leader**
+
 A thoughtful technical leader with over 10 years experience building successful web applications, with a focus on nonprofits and companies that make the world a better place. I thrive in a passionate collaborative team, driven by users needs and with freedom to make things better.
 
 Download PDF: [Dev](/resume/CV%20Robbie%20Mackay%202019%20-%20Dev.pdf) | [Lead](/resume/CV%20Robbie%20Mackay%202019%20-%20Lead.pdf)
