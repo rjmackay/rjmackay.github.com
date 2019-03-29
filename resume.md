@@ -90,11 +90,11 @@ PHP, Silverstripe, Javascript, HTML + CSS.
 
 ### Genesis Interactive – Web Developer
 
-Summer 2007 - 2008.
+Summer 2007 - 2008. Auckland, NZ.
 
 ### Navman – Software Testing Engineer
 
-Summer 2006 - 2007.
+Summer 2006 - 2007. Auckland, NZ.
 
 ## Education
 
