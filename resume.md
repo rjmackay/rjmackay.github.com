@@ -26,7 +26,7 @@ Basis is an early stage startup working on a new model for mental health. I join
 * Improved matching of clients to specialists to reduce unfulfilled sessions.
 * Supported and mentored other developers.
 
-Python, PostgreSQL, Javascript, Redis, Celery, Heroku.
+<small>Python, PostgreSQL, Javascript, Redis, Celery, Heroku.</small>
 
 ### Ushahidi – CTO
 
@@ -52,7 +52,7 @@ I joined Ushahidi in 2012 to lead development of client projects. In 2014 I led 
 * Working within and improving an existing legacy code base over time.
 * Deployed, managed and monitored infrastructure for client projects.
 
-PHP, Laravel, Kohana, Javascript, AngularJS, Python, MySQL, RabbitMQ, Ansible.
+<small>PHP, Laravel, Kohana, Javascript, AngularJS, Python, MySQL, RabbitMQ, Ansible.</small>
 
 ### Torchbox Ltd – Drupal Web Developer
 
@@ -63,7 +63,7 @@ Torchbox is a digital agency building websites and application for people trying
 * Scaling and optimising complex Drupal sites through a combination of static caching (with varnish and nginx) and improved app level caching.
 * Building tools for fast, standardised development and deployment.
 
-PHP, Drupal, Javascript, Python, MySQL, Sass, HTML, CSS.
+<small>PHP, Drupal, Javascript, Python, MySQL, Sass, HTML, CSS.</small>
 
 ### Greenpeace New Zealand – Web Developer
 
@@ -75,7 +75,7 @@ Joined Greenpeace NZ in 2009 as their first full time developer, initially focus
 * Deployed and optimized online fundraising tools for increased donations.
 * Security testing and fixes on legacy web apps.
 
-PHP, Drupal, Silverstripe, Javascript, HTML, CSS, MySQL, PostgreSQL
+<small>PHP, Drupal, Silverstripe, Javascript, HTML, CSS, MySQL, PostgreSQL</small>
 
 ### Engineers Without Borders NZ – Web manager (Volunteer)
 
@@ -86,7 +86,7 @@ PHP, Drupal, Silverstripe, Javascript, HTML, CSS, MySQL, PostgreSQL
 2002 - 2009. NZ.  
 Worked as a freelance web developer part time while studying and then full time for a year. Developed a range of websites and applications for small businesses.
 
-PHP, Silverstripe, Javascript, HTML + CSS.
+<small>PHP, Silverstripe, Javascript, HTML + CSS.</small>
 
 ### Genesis Interactive – Web Developer
 
