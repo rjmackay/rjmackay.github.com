@@ -39,7 +39,7 @@ Ushahidi is an open-source crowdsourcing platform to collect, manage, visualize,
 * Led migration from a legacy software stack and infrastructure to modern replacements. Resulting in faster, more stable development, and reduced infrastructure costs.
 * Created a long term plan to iteratively reduce technical debt, improve architecture and tooling while continuing to deliver value to product teams.
 
-PHP, Laravel, Kohana, Javascript, React, AngularJS, Python, MySQL, RabbitMQ, Ansible, Terraform.
+<small>PHP, Laravel, Kohana, Javascript, React, AngularJS, Python, MySQL, RabbitMQ, Ansible, Terraform.</small>
 
 ### Ushahidi – Senior Developer
 
