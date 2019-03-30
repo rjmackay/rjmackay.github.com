@@ -6,8 +6,6 @@ Thumbs.db
 
 !.gitkeep
 
-.rbenv-version
 .rvmrc
 *.sublime*
 node_modules*
-Gemfile.lock
