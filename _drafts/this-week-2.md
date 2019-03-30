@@ -1,20 +1,26 @@
 ---
 author: Robbie Mackay
 title: 'This week #2'
-date: 2019-04-04 00:00:00 +1300
+date: 2019-04-03 11:00:00 +0000
 tags:
 - this-week
 categories:
 - this-week
 
 ---
-Thinking
+### Thinking
 
-State of PWAs. Intent in 2015 with Ushv3. Reality then v now. 20 mins from 0 to Vue PWA in android and web. How much further to do syncing, 
+State of PWAs. Intent in 2015 with Ushv3. Reality then v now. 20 mins from 0 to Vue PWA in android and web. How much further to do syncing,
 
 Reflections on good teams?
 
-Reading 
+Learning skills from other disciplines.  One way to develop a killer set of skills is to learn things outside your discipline. The PM who has a little more context around code/tech decisions, the developer who can give critical feedback on design, or help draft a project plan, or do user research.
+
+Maybe it's a function of the smaller organizations I've been in, but it's often useful to be able to work outside your role. Either supporting your coworkers when they're swamped, or picking up jobs no-one on the team actually has experience doing. It makes you a high performer, but potentially makes the whole team faster too. And build a sense of cohesion, a team where everyone helps each other out.
+
+The pitfall - which I have seen too - is that people with a little bit of knowledge start to second guess their coworkers. ie the developer with a little bit of product knowledge second guessing the product managers direction. Critique is fine... but one you raised the point once or twice, and it was addressed, move on. Any further probing just makes you look like an asshole, and leaves the other person feeling unvalued.
+
+### Reading
 
 Some from further back:
 
