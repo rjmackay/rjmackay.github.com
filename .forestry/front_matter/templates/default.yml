@@ -31,11 +31,11 @@ fields:
     source:
       type: simple
     options:
-    - page
     - post
+    - page
     required: true
   label: Layout
-  default: page
+  default: post
 pages:
 - _posts/this-week-2.md
 - _posts/2017-04-23-adding-optional-parameters-in-lumen-routes.md
