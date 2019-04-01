@@ -25,9 +25,6 @@ fields:
 - name: categories
   type: tag_list
   label: Categories
-- type: text
-  name: tagline
-  label: Tagline
 - type: select
   name: layout
   config:
@@ -38,6 +35,7 @@ fields:
     - post
     required: true
   label: Layout
+  default: page
 pages:
 - _posts/this-week-2.md
 - _posts/2017-04-23-adding-optional-parameters-in-lumen-routes.md
