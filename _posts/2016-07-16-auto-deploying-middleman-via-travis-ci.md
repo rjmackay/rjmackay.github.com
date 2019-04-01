@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Auto deploying middleman via Travis-CI
 date: 2016-07-16 01:02 UTC
 author: Robbie Mackay

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Handling login events with Sentry and AngularJS
 date: 2017-03-20
 author: Robbie Mackay
