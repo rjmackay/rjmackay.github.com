@@ -39,11 +39,11 @@ fields:
     required: true
   label: Layout
 pages:
-- _posts/2017-05-18-a-little-less-coffee.md
-- _posts/2019-03-28-this-week.md
 - _posts/this-week-2.md
-- _posts/building-a-progressive-web-app.md
-- _posts/questions-i-wish-people-asked-in-an-interview.md
 - _posts/2017-04-23-adding-optional-parameters-in-lumen-routes.md
+- _posts/2017-05-18-a-little-less-coffee.md
 - _posts/2017-04-26-why-i-run.md
 - _posts/2017-05-18-psychological-safety.md
+- _posts/2019-03-28-this-week.md
+- _posts/building-a-progressive-web-app.md
+- _posts/questions-i-wish-people-asked-in-an-interview.md

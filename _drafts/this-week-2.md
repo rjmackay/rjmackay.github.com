@@ -6,6 +6,7 @@ tags:
 - this-week
 categories:
 - this-week
+layout: post
 
 ---
 ### Thinking
