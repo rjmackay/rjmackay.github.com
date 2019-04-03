@@ -1,7 +1,7 @@
 ---
 author: Robbie Mackay
 title: Building a Progressive Web App
-date: 2019-03-27 11:00:00 +0000
+date: 2019-03-28 00:01:00 +1300
 tags: []
 categories: []
 layout: post
