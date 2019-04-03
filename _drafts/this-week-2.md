@@ -1,7 +1,7 @@
 ---
 author: Robbie Mackay
 title: 'This week #2'
-date: 2019-04-03 11:00:00 +0000
+date: 2019-04-04 00:00:00 +1300
 tags:
 - this-week
 categories:
