@@ -4,11 +4,14 @@ title: 'This week #2'
 date: 2019-04-05 00:00:00 +1300
 tags:
 - this-week
+- learning
 categories:
 - this-week
 layout: post
 
 ---
+A random collection of thoughts from this week.
+
 ### Thinking
 
 I've been pondering learning skills from other disciplines. It's potentially a killer feature. My hunch is that knowing unexpected things outside my field gives me an edge, and helps me remain a high performer.
