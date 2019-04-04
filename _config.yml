@@ -5,7 +5,7 @@ logo:
 disqus_shortname: robbiemackay
 search:           true
 # Change url to your domain. Leave localhost server or blank when working locally.
-url:              http://robbiemackay.com
+url:              https://robbiemackay.com
 #url:              http://localhost:4000
 
 # Owner/author information
