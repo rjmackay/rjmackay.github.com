@@ -37,9 +37,9 @@ fields:
   label: Layout
   default: post
 pages:
+- _posts/2019-04-05-this-week-2.md
 - _posts/this-week-3.md
 - _posts/test-timezones.md
-- _posts/2019-04-05-this-week-2.md
 - _posts/2017-04-23-adding-optional-parameters-in-lumen-routes.md
 - _posts/2017-05-18-a-little-less-coffee.md
 - _posts/2017-04-26-why-i-run.md
