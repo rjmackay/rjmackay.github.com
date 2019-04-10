@@ -9,17 +9,21 @@ categories:
 - this-week
 
 ---
-A collection of thoughts from this week.
+A collection of technical, management and other thoughts from this week.
 
 ### Thinking
 
-I haven't had a clear focus for my reflections this week, but here's some rough themes:
+I haven't had a clear focus for my reflections this week, but there are some rough themes.
 
-**Building new things.** What's my ideal prototyping tech stack? Is it worth learning Sketch, Figma or XD or should I just prototype in code? What should I learn now that will help with product development later?
+**Building new things.**
+
+What's my ideal prototyping tech stack? Is it worth learning Sketch, Figma or XD or should I just prototype in code? What should I learn now that will help with product development later?
 
 I have a lot of experience with PHP and Laravel, such that I could very quickly through something together. But I feel like I have to balance that with how much PHP would appeal (or not) when hiring other developers. If I go towards Python, which is having a bit of a resurgence and pair that with Vue or React, that seems more likely to appeal to good developers. But there are also those who would be wary of that stack too.
 
-**What should I learn next?** I could double down of areas I've already dabbled in: front-end dev, React, Vue, etc. I could focus on new technical areas: machine learning, graph databases, modelling tricky problems. I could dig into something completely new: UX design, user research, or product management.
+**What should I learn next?**
+
+I could double down of areas I've already dabbled in: front-end dev, React, Vue, etc. I could focus on new technical areas: machine learning, graph databases, modelling tricky problems. I could dig into something new outside my field: UX design, user research, or product management.
 
 Right now I'm tending towards doing some practice building Progressive Web Apps, and trying to use it as practice for more UX and product thinking. How that all fits together is still very much a work-in-progress.
 
