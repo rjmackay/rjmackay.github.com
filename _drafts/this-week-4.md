@@ -1,7 +1,7 @@
 ---
 author: Robbie Mackay
 layout: post
-title: 'This Week #4'
+title: 'This week #4'
 date: 2019-04-18 00:00:00 +1200
 tags:
 - this-week
