@@ -2,7 +2,7 @@
 author: Robbie Mackay
 layout: post
 title: 'This week #4'
-date: 2019-04-18 00:00:00 +1200
+date: 2019-04-17 12:00:00 +0000
 tags:
 - this-week
 categories:
@@ -13,12 +13,18 @@ A collection of technical, management and other thoughts from this week.
 
 ## Thinking
 
+I'm on vacation this week. I'm having mixed success disconnecting from work. Mostly I'm still going down rabbit holes of interesting tech.
 
+I'm slowly poking at a couple of new things. The first is building [progressive web apps](https://developers.google.com/web/progressive-web-apps/) in [Vue](https://vuejs.org/), using [Vuetify](https://vuetifyjs.com/en/) and Cordova. I'm fairly convinced that this is stack I would use to build a new frontend _if_ it needs a mobile app or offline support. I'm getting stuck at the stage of needing a real project to experiment on.
+
+The second thing is [Phoenix](https://phoenixframework.org), a web framework built in [Elixir](https://elixir-lang.org). I love the promise of super fast requests, built in support for web sockets, easy scaling. At first glance it looks like the early learning curve isn't too bad, although it's clear there's a lot of complexity to uncover eventually. My biggest worry is the deployment and CI story. It's just not as well supported as something like PHP or Python. You can deploy Elixir to Heroku but [lose some of the great features in the process](https://medium.com/mint-digital/elixir-deployments-on-aws-ee787aa02a9d).
 
 ## Reading
 
-(The 4 ‘Attachment Styles,’ and How They Sabotage Your Work-Life Balance)[https://www.nytimes.com/2018/12/19/smarter-living/attachment-styles-work-life-balance.html]
+[The 4 ‘Attachment Styles,’ and How They Sabotage Your Work-Life Balance](https://www.nytimes.com/2018/12/19/smarter-living/attachment-styles-work-life-balance.html). An interesting and possibly useful bit of psychology context.
 
-## Listening
+[UX Design For Startups](https://www.uxpin.com/studio/ebooks/ux-design-for-startups/ "UX Design For Startups"). I've only just started this. So far it looks like a nice overview, but I haven't seen a lot of depth. Not surprising for a free ebook.
 
+[Timestamps and time zones in Postgresql](https://phili.pe/posts/timestamps-and-time-zones-in-postgresql/ "Timestamps and time zones in Postgresql"). Time is hard.
 
+[One Neat Trick To Avoid Rewriting Your Software Product](https://8thlight.com/blog/doug-bradbury/2019/04/16/disrupt-yourself.html "One Neat Trick To Avoid Rewriting Your Software Product"). Yet another take on why you shouldn't rewrite, and how better alternatives. I particularly appreciated the points about need to limit a new products runway. It's too easy to let a new spin-off product kill the old one slowly without actually proving itself.
