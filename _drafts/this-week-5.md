@@ -15,6 +15,14 @@ A collection of technical, management and other thoughts from this week.
 
 ## Thinking
 
+At what point does this blog become worth sharing? I'm sure my writing will get better over the first few weeks, and it'll be nice to have a bigger history of regular posts first. But there may be some value to just pulling the trigger. 
+
+It's similar to other creation. There's value to a bit of polish  but also value to getting things out in the world. The balance is tricky. My first goal is jist to create something regularly. Then from there to create something better, somethinf thoughtful. 
+
+Start with this, podcast from Nigbtvale. While based around writing for podcasts it's really relevant. It's so easy to get stuck on a grand vision and make nothing. Something, even something bad, is better than nothing. 
+
+===
+
 It's frustrating to see so much focus on what will make money, treating making the world better or making things people need as a secondary bonus. Tech generates so many amazing things right now, but also so much waste.
 
 ## Reading
