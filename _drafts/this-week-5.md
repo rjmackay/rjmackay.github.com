@@ -13,17 +13,7 @@ categories:
 ---
 A collection of technical, management and other thoughts from this week.
 
-## Thinking
-
-At what point does this blog become worth sharing? I'm sure my writing will get better over the first few weeks, and it'll be nice to have a bigger history of regular posts first. But there may be some value to just pulling the trigger. 
-
-It's similar to other creation. There's value to a bit of polish  but also value to getting things out in the world. The balance is tricky. My first goal is jist to create something regularly. Then from there to create something better, somethinf thoughtful. 
-
-Start with this, podcast from Nigbtvale. While based around writing for podcasts it's really relevant. It's so easy to get stuck on a grand vision and make nothing. Something, even something bad, is better than nothing. 
-
-===
-
-It's frustrating to see so much focus on what will make money, treating making the world better or making things people need as a secondary bonus. Tech generates so many amazing things right now, but also so much waste.
+A bit late and short this week. I tried several times to turn my thoughts into a couple of coherent paragraphs but I'm going to call time and publish this as-is.
 
 ## Reading
 
@@ -34,3 +24,7 @@ It's frustrating to see so much focus on what will make money, treating making t
 [How to Track Your Kids (and Other People's Kids) With the TicTocTrack Watch](https://www.troyhunt.com/how-to-track-your-kids-and-other-peoples-kids-with-the-tictoctrack-watch). A good break down of the security failures of a watch for tracking your kids. I'm with Germany on this one - ban them -  the security risks are too high to consider any device that tracks children.
 
 [A way to do CSS for applications](https://macwright.org/2019/02/09/tachyons-css.html). Nice and simple. I might try this on my next project.
+
+## Listening
+
+[Start With This](http://www.nightvalepresents.com/startwiththis). A new podcast from the creators of Welcome to Nightvale about writing and the creative process. Each episode has assignments to help push you to actually create something.
