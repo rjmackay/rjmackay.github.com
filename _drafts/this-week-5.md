@@ -2,9 +2,11 @@
 author: Robbie Mackay
 layout: post
 title: 'This week #6'
-date: 2019-05-03 00:00:00 +1200
+date: 2019-05-17 00:00:00 +1200
 tags:
 - this-week
+- hiring
+- distributed
 categories:
 - this-week
 
