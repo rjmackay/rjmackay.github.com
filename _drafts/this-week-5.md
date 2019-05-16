@@ -17,21 +17,11 @@ Life happened and I've missed a couple weeks but I'm back at writing these.
 
 ## Thinking
 
-### Hiring juniors when the team is remote
-
-I've had a couple of discussions about hiring junior developers in remote roles recently. It seems common to assume hiring juniors into a remote team is just a _bad idea_. I don't think it should be undertaken lightly, but provided your intentional about how you hire, onboard and support juniour engineers I think it's possible to have them succeed. 
-
-I think we collapse a couple of things when talking about junior engineers: a lack of inexperience in work and life in general, and a lack of experience writing software. If you're hiring new grads out of university they're typically going to be inexperienced at both. However, with the rise of bootcamps and people switching careers, there are now more people who lack experience writing software but are _very experienced_ in work and just getting things done. The latter group is interesting when hiring remote.
-
-When hiring into a previous team we indexed candidates on leadership, communication, culture fit (well defined, not simply 'looks like me'), and roles fit (technical skill). If you interview a new grad, they're likely to come out low on most / all of those. Someone changing careers on the other hand, has had much more time to show communication and leadership skills. 
-
-In that previous remote team, we hired a couple of developers who'd made recent career changes. They needed plenty of support on their technical work. But because 
-
-I've had success a couple of times hiring juniors who'd changed careers and been through bootcamps. In both cases they'd already had enough success in their previous career to know they could coordinate their work well, they just needed lots of support on the technical side.
-
 ### Getting satisfaction in open-ended work
 
-I change roles in January from a management role, back to a developer role. As a manager, I often finished the day wondering what I'd done and feeling like maybe I didn't produce any useful work today. It's only recently I've realised thats a common experience for many new managers.
+I changed roles in January from a management role to a developer role. In part I wanted to learn and grow my technical skills again. On the other side I just wanted to feel like I'd done something at the end of each day.
+
+As a manager, I often finished the day wondering what I'd done and feeling like maybe I didn't actually do anything useful at all today. It's only recently I've realised thats a common experience for many new managers.
 
 I've also recently found myself in a similar place again. I'm not managing a team yet, but we're in a phase of very open-ended exploratory work (read: pivoting). Once again, it's hard to tell if what I did today was useful. Did I read anything that gave me insight into the product? into customers needs? into the market? Even if I did, was that enough? Is it actually moving us closer to a profitable business.
 
