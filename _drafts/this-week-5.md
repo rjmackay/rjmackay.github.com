@@ -29,9 +29,15 @@ I've had success a couple of times hiring juniors who'd changed careers and been
 
 ### Getting satisfaction in open-ended work
 
-ie. management, chasing new ideas, etc.
+I change roles in January from a management role, back to a developer role. As a manager, I often finished the day wondering what I'd done and feeling like maybe I didn't produce any useful work today. It's only recently I've realised thats a common experience for many new managers.
+
+I've also recently found myself in a similar place again. I'm not managing a team yet, but we're in a phase of very open-ended exploratory work (read: pivoting). Once again, it's hard to tell if what I did today was useful. Did I read anything that gave me insight into the product? into customers needs? into the market? Even if I did, was that enough? Is it actually moving us closer to a profitable business.
+
+I'm just ... not sure. In abscence of a concrete deliverable ie. a working bit of code, it's hard to see my impact.
 
 ## Reading
+
+[Satisfaction and progress in open ended work](https://blog.andymatuschak.org/post/159979927467/satisfaction-and-progress-in-open-ended-work)
 
 [How to Make Sense of Your Impact When You're No Longer Coding](https://blog.coleadership.com/how-to-make-sense-of-your-impact-when-youre-no-longer-coding/ "How to Make Sense of Your Impact When You're No Longer Coding"). 
 
