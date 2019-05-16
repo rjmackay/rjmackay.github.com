@@ -19,7 +19,7 @@ Life happened and I've missed a couple weeks but I'm back at writing these.
 
 ### Getting satisfaction in open-ended work
 
-I changed roles in January from a management role to a developer role. In part I wanted to learn and grow my technical skills again. On the other side I just wanted to feel like I'd done something at the end of each day.
+I changed roles in January from a management role to a developer role. Partly because I wanted to learn and grow my technical skills again. But also I just wanted to feel like I'd done something at the end of each day.
 
 As a manager, I often finished the day wondering what I'd done and feeling like maybe I didn't actually do anything useful at all today. It's only recently I've realised thats a common experience for many new managers.
 
