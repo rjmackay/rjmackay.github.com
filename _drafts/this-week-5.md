@@ -25,7 +25,7 @@ As a manager, I often finished the day wondering what I'd done or feeling like m
 
 I've recently found myself in a similar place again. I'm not managing a team, but we're in a phase of open-ended exploratory work. Once again, it's hard to tell if what I did today was useful. Did I read anything that gave me insight into the product, or customers needs? Even if I did, was that enough? Is it actually moving us closer to a profitable business? I'm just ... not sure. In abscence of a concrete deliverable ie. a working bit of code, it's hard to see my impact.
 
-I've read a couple of [good](https://blog.andymatuschak.org/post/159979927467/satisfaction-and-progress-in-open-ended-work) [pieces](https://blog.coleadership.com/how-to-make-sense-of-your-impact-when-youre-no-longer-coding/) talking about this, and I've started trying out some personal processes. I've set high level goals: pick an idea in 2 weeks, build and test a prototype in a month. My daily tasks are partly reactive: follow up X, and partly driven by those goals: sketch a lean canvas for Y idea or answer a question about idea Z. It's early days but it's helped a little. I have some idea if I'm seeing progress now.
+I've read a couple of [good](https://blog.andymatuschak.org/post/159979927467/satisfaction-and-progress-in-open-ended-work "Satisfaction and progress in open ended work") [pieces](https://blog.coleadership.com/how-to-make-sense-of-your-impact-when-youre-no-longer-coding/ "How to Make Sense of Your Impact When You're No Longer Coding") talking about this, and I've started trying out some personal processes. I've set high level goals: pick an idea in 2 weeks, build and test a prototype in a month. My daily tasks are partly reactive: follow up X, and partly driven by those goals: sketch a lean canvas for Y idea or answer a question about idea Z. It's early days but it's helped a little. I have some idea if I'm seeing progress now.
 
 ## Reading
 
@@ -43,6 +43,6 @@ I've read a couple of [good](https://blog.andymatuschak.org/post/159979927467/sa
 
 ## Listening
 
-a16z on [healthcare](https://soundcloud.com/a16z/building-software-company-healthcare) and [fintech]().
+a16z on [healthcare](https://a16z.com/2019/04/26/building-software-company-healthcare/) and [fintech](https://a16z.com/2019/04/07/fintech-innovation-startups-incumbents-advice/).
 
 [Quick and Cognitive Behavioural Therapy](https://changelog.com/podcast/345) on [Changelog](https://changelog.com/podcast).
