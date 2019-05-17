@@ -17,19 +17,19 @@ Life happened and I've missed a couple weeks but I'm back at writing these.
 
 ## Thinking
 
-### Getting satisfaction in open-ended work
+### Impact, satisfaction and open-ended work
 
-I changed roles in January from a management role to a developer role. Partly because I wanted to learn and grow my technical skills again. But also I just wanted to feel like I'd done something at the end of each day.
+I changed roles in January, moving from a management role to a developer role. I choose an engineering role partly because I wanted to learn and grow my technical skills again, but partly I just wanted to feel like I'd done something at the end of each day.
 
-As a manager, I often finished the day wondering what I'd done and feeling like maybe I didn't actually do anything useful at all today. It's only recently I've realised thats a common experience for many new managers.
+As a manager, I often finished the day wondering what I'd done or feeling like maybe I didn't actually do anything useful at all today. I only recently realised thats a common experience for many new managers. It's harder to see your impacts as a manager, and part of becoming a good manager is figuring out how to judge your impact.
 
-I've also recently found myself in a similar place again. I'm not managing a team yet, but we're in a phase of very open-ended exploratory work (read: pivoting). Once again, it's hard to tell if what I did today was useful. Did I read anything that gave me insight into the product? into customers needs? into the market? Even if I did, was that enough? Is it actually moving us closer to a profitable business.
+I've recently found myself in a similar place again. I'm not managing a team, but we're in a phase of open-ended exploratory work. Once again, it's hard to tell if what I did today was useful. Did I read anything that gave me insight into the product, or customers needs? Even if I did, was that enough? Is it actually moving us closer to a profitable business? I'm just ... not sure. In abscence of a concrete deliverable ie. a working bit of code, it's hard to see my impact.
 
-I'm just ... not sure. In abscence of a concrete deliverable ie. a working bit of code, it's hard to see my impact.
+I've read a couple of [good](https://blog.andymatuschak.org/post/159979927467/satisfaction-and-progress-in-open-ended-work) [pieces](https://blog.coleadership.com/how-to-make-sense-of-your-impact-when-youre-no-longer-coding/) talking about this, and I've started trying out some personal processes. I've set high level goals: pick an idea in 2 weeks, build and test a prototype in a month. My daily tasks are partly reactive: follow up X, and partly driven by those goals: sketch a lean canvas for Y idea or answer a question about idea Z. It's early days but it's helped a little. I have some idea if I'm seeing progress now.
 
 ## Reading
 
-[Satisfaction and progress in open ended work](https://blog.andymatuschak.org/post/159979927467/satisfaction-and-progress-in-open-ended-work)
+[Satisfaction and progress in open ended work](https://blog.andymatuschak.org/post/159979927467/satisfaction-and-progress-in-open-ended-work).
 
 [How to Make Sense of Your Impact When You're No Longer Coding](https://blog.coleadership.com/how-to-make-sense-of-your-impact-when-youre-no-longer-coding/ "How to Make Sense of Your Impact When You're No Longer Coding"). 
 
