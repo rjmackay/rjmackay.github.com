@@ -11,13 +11,27 @@ modified: 2014-12-08 00:00:00 +0000
 A thoughtful technical leader with over 10 years experience building successful web applications, with a focus on nonprofits and companies that make the world a better place. I thrive in a passionate collaborative team, driven by users needs and with freedom to make things better.
 
 Want to hire me? [rm@robbiemackay.com](mailto:rm@robbiemackay.com)  
-Download PDF: [Dev](/resume/CV%20Robbie%20Mackay%202020%20-%20Dev.pdf) | [Lead](/resume/CV%20Robbie%20Mackay%202020%20-%20Lead.pdf)
+Download PDF: [Dev](/resume/CV%20Robbie%20Mackay%202021%20-%20Dev.pdf) | [Lead](/resume/CV%20Robbie%20Mackay%202021%20-%20Lead.pdf)
 
 ## Experience
 
+### Private Chef Club – Lead Developer
+
+2019 - Present. Remote.
+Private Chef Club is a food delivery startup, serving homestyle meals for families.
+
+* Designed, architected and built the initial SMS and web apps.
+* Automated delivery and support tasks to reduce manual errors and preparation time.
+* Built GraphQL/React app to launch local food-maker marketplace.
+* Directed product roadmap to enable growth based user testing and feedback.
+* Implemented a minimal continuous delivery pipeline for fast, high quality releases, with increased visibility.
+* Managed software development team to ensure quality code and on-time delivery.
+
+<small>Python, PostgreSQL, Javascript, React, GraphQL, Svelte, Redis, Celery, Heroku.</small>
+
 ### Basis – Lead Developer
 
-2019 - Present. Remote.  
+2019. Remote.  
 Basis is an early stage startup working on a new model for mental health. I joined as the second developer.
 
 * Implemented a minimal agile dev process, metrics, and continuous delivery pipeline for fast, high quality releases, with increased visibility.
