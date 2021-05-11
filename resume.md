@@ -29,7 +29,7 @@ Private Chef Club is a food delivery startup, serving homestyle meals for famili
 
 <small>Python, PostgreSQL, Javascript, React, GraphQL, Svelte, Redis, Celery, Heroku.</small>
 
-### Basis – Lead Developer
+<!-- ### Basis – Lead Developer
 
 2019. Remote.  
 Basis is an early stage startup working on a new model for mental health. I joined as the second developer.
@@ -40,7 +40,7 @@ Basis is an early stage startup working on a new model for mental health. I join
 * Improved matching of clients to specialists to reduce unfulfilled sessions.
 * Supported and mentored other developers.
 
-<small>Python, PostgreSQL, Javascript, Redis, Celery, Heroku.</small>
+<small>Python, PostgreSQL, Javascript, Redis, Celery, Heroku.</small> -->
 
 ### Ushahidi – CTO
 
