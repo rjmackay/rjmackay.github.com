@@ -8,16 +8,51 @@ modified: 2014-12-08 00:00:00 +0000
 ---
 **Software Developer & Engineering Leader**
 
-A thoughtful technical leader with over 10 years experience building successful web applications, with a focus on nonprofits and companies that make the world a better place. I thrive in a passionate collaborative team, driven by users needs and with freedom to make things better.
+A thoughtful technical leader with over 10 years experience building successful software, with a focus on nonprofits and companies that make the world a better place. I thrive in a passionate collaborative team, driven by users needs and with freedom to make things better.
 
 Want to hire me? [rm@robbiemackay.com](mailto:rm@robbiemackay.com)  
 Download PDF: [Dev](/resume/CV%20Robbie%20Mackay%202021%20-%20Dev.pdf) | [Lead](/resume/CV%20Robbie%20Mackay%202021%20-%20Lead.pdf)
 
 ## Experience
 
+### Veho – Senior Staff Software Engineer
+
+Jun 2024 - Present. Remote.
+Veho powers fast, transparent and personalized next-day delivery and returns for e-commerce companies so they can increase customer satisfaction and drive customer lifetime value.
+
+* Lead warehouse automation work, in collaboration with external vendors and internal operations partners
+* Guide supply chain systems towards more defined workflows, enabling more flexibility as Veho's operations evolve
+* Contribute to the growth of other engineers, through mentoring and finding grwoth opportunities
+
+<small>Typescript, Serverless, DynamoDB, React, GraphQL, PostgreSQL.</small>
+
+### Veho – Staff Software Engineer
+
+Feb 2022 - Jun 2024. Remote.
+
+* Driving engineering wide technical direction towards de-coupled event-driven services, to enable faster iteration and greater stability
+* Migrating Veho's client facing order API out of a failing monolith to a multi-region serverless replacement, without downtime or interruption to clients 
+* Move engineer towards truck based deployments on all new services
+* Guide teams towards setting up actionable on-call alerts, reducing noise while improving response times
+* Design a north star architecture for Veho's supply chain systems to align teams and reduce churn on individual system designs
+* Working with product and business stakeholders to meet data privacy requirements, allowing Veho to work with larger more established clients
+
+<small>Typescript, Serverless, DynamoDB, React, GraphQL, CDK, AWS.</small>
+
+### Veho – Senior Software Engineer
+
+2021 - Feb 2022. Remote.
+
+* Leading migration of customer data from a legacy monolith to enable launching a consumer mobile app with > 90k monthly active users, handling > 70% of reroutes (previously entirely manual support)
+* Implemented auth and SSO for internal applications using Amazon Cognito
+* Design and built Veho's first warehouse automation backend
+
+<small>Typescript, Serverless, DynamoDB, React, GraphQL.</small>
+
+
 ### Private Chef Club – Lead Developer
 
-2019 - Present. Remote.
+2019 - 2021. Remote.
 Private Chef Club is a food delivery startup, serving homestyle meals for families.
 
 * Designed, architected and built the initial SMS and web apps.
